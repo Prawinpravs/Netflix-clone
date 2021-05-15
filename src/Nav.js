@@ -21,7 +21,7 @@ function Nav() {
                 src="netflix.png"alt="Netflix Logo">
             </img>  
             
-            <img className="navbar_signUp" src ="https://www.instagram.com/p/BpEvJTBggsW/" alt="PrawinPravs">
+            <img className="navbar_signUp" src ="ampu.png" alt="PrawinPravs">
                 {/* src="https://drive.google.com/file/d/1ZlkQYAkN5HCwjBR1jkelIQIznsk3b3QN/view" alt="PrawinPravs"> */}
                 </img>
         </div>
