@@ -22,7 +22,7 @@ function Nav() {
             </img>  
             
             <img className="navbar_signUp" src ="ampu.png" alt="PrawinPravs">
-                {/* src="https://drive.google.com/file/d/1ZlkQYAkN5HCwjBR1jkelIQIznsk3b3QN/view" alt="PrawinPravs"> */}
+                {/* src="ampu.png" alt="PrawinPravs"> */}
                 </img>
         </div>
     )
