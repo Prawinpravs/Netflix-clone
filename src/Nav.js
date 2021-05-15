@@ -21,7 +21,7 @@ function Nav() {
                 src="netflix.png"alt="Netflix Logo">
             </img>  
             
-            <img className="navbar_signUp" src ="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/100773906_1556172277866253_1073650573124829184_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=QBNLcFh9opoAX8pc8Cq&_nc_ht=scontent.fblr1-4.fna&oh=5513bf96d37584051b8022bb73b59e61&oe=607E02FA" alt="PrawinPravs">
+            <img className="navbar_signUp" src ="https://www.instagram.com/p/BpEvJTBggsW/" alt="PrawinPravs">
                 {/* src="https://drive.google.com/file/d/1ZlkQYAkN5HCwjBR1jkelIQIznsk3b3QN/view" alt="PrawinPravs"> */}
                 </img>
         </div>
