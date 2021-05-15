@@ -18,7 +18,7 @@ function Nav() {
     return (
         <div className ={`navbar ${show && 'navbar_black'}`}>
             <img className="navbar_logo"        
-                src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"alt="Netflix Logo">
+                src="netflix.png"alt="Netflix Logo">
             </img>  
             
             <img className="navbar_signUp" src ="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/100773906_1556172277866253_1073650573124829184_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=QBNLcFh9opoAX8pc8Cq&_nc_ht=scontent.fblr1-4.fna&oh=5513bf96d37584051b8022bb73b59e61&oe=607E02FA" alt="PrawinPravs">
