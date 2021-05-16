@@ -21,8 +21,8 @@ function Nav() {
                 src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"alt="Netflix Logo">
             </img>  
             
-            <img className="navbar_signUp" src ="ampu.png" alt="PrawinPravs">
-                {/* src="ampu.png" alt="PrawinPravs"> */}
+            <img className="navbar_signUp" src ="https://static.toiimg.com/thumb/resizemode-4,msid-76729750,imgsize-249247,width-720/76729750.jpg" alt="PrawinPravs">
+                {/* src="https://static.toiimg.com/thumb/resizemode-4,msid-76729750,imgsize-249247,width-720/76729750.jpg" alt="PrawinPravs"> */}
                 </img>
         </div>
     )
